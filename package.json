@@ -8,7 +8,7 @@
     "url": ""
   },
   "scripts": {
-    "start": "webpack-dev-server --progress --colors"
+    "start": "electron main.js"
   },
   "author": "Alkami",
   "dependencies": {
@@ -22,6 +22,7 @@
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.13.2",
     "babel-preset-react": "^6.11.1",
+    "electron-prebuilt": "^0.37.2",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
   }
