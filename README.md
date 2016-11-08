@@ -13,7 +13,7 @@ authentication and protected routes with React Router and Firebase.
 #### Instructions:
 * `git clone this_repo && cd this_repo`
 * `npm install`
-* [Create a new firebase app](console.firebase.google.com)
+* [Create a new firebase app](https://console.firebase.google.com/)
 * Navigate to the Authentication tab, SIGN-IN-METHOD, and enable Email/Password
 * Put your Firebase app configurations to `firebase.config.js` file.
 * Run `npm start` an open http://127.0.0.1:8080/public in your browser
